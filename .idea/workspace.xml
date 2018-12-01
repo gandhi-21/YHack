@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c362c9-f710-4a2a-9f25-0624d72ffd01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/information.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/information.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/odometer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/news.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/photos.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/photos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/smartcarAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/smartcarAuth.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="22" />
+          <entry key="js" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="22" />
+          <entry key="JavaScript" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1263" />
+          <entry key="js" value="2518" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1263" />
+          <entry key="JavaScript" value="2518" />
         </counts>
       </usages-collector>
     </session>
@@ -51,10 +52,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routes/smartcarAuth.js">
+        <entry file="file://$PROJECT_DIR$/routes/photos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="621">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -67,9 +68,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/routes/smartcarAuth.js" />
-        <option value="$PROJECT_DIR$/routes/map.js" />
         <option value="$PROJECT_DIR$/routes/information.js" />
+        <option value="$PROJECT_DIR$/routes/smartcarAuth.js" />
+        <option value="$PROJECT_DIR$/routes/odometer.js" />
+        <option value="$PROJECT_DIR$/routes/map.js" />
+        <option value="$PROJECT_DIR$/routes/news.js" />
+        <option value="$PROJECT_DIR$/routes/photos.js" />
       </list>
     </option>
   </component>
@@ -147,20 +151,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543647347483</updated>
-      <workItem from="1543647350155" duration="4782000" />
+      <workItem from="1543647350155" duration="6224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4782000" />
+    <option name="totallyTimeSpent" value="6224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="954" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24330118" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24330118" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2432675" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2432675" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -189,9 +194,6 @@
     <entry file="file://$PROJECT_DIR$/routes/calendar.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/photos.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/notes.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -204,21 +206,8 @@
     <entry file="file://$PROJECT_DIR$/routes/time.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/odometer.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/music.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/news.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/information.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -227,10 +216,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/odometer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/smartcarAuth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="-488">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/photos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

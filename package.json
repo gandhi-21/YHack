@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "googleapis": "^27.0.0",
+    "newsapi": "^2.4.0",
     "smartcar": "^4.2.1"
   }
 }

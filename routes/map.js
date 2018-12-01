@@ -2,4 +2,4 @@ var location = require('./smartcarAuth');
 
 var currentLocation = location.location;
 
-// Run the Google Maps api over here
+// Import this object in the front end and then use the Google Maps api there to make the api

@@ -1,6 +1,8 @@
 
 // Car Info
-
+// Car Location
+// Car Odometer
+// Using the SmartCar api SDK
 const smartcar = require('smartcar');
 const express = require('express');
 
