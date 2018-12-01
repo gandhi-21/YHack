@@ -11,8 +11,8 @@ const app = express();
 const port = 4000;
 
 const client = new smartcar.AuthClient({
-    clientId: : '',
-    clientSecret: '',
+    clientId: : 'b390427a-e55f-40cd-ac43-c00bcd1bcd78',
+    clientSecret: '4dd16abb-7b91-45a0-b40f-4a5496351adc',
     redirectUri: '',
     scope: ['']
 });
